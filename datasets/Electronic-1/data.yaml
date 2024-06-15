@@ -1,0 +1,16 @@
+names:
+- Capacitor
+- Inductor
+- Led
+- Resistor
+- capacitor
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: electronic-ezdmf
+  url: https://universe.roboflow.com/abc-qqksz/electronic-ezdmf/dataset/1
+  version: 1
+  workspace: abc-qqksz
+test: 'C:/Sinau/UAS/ML2/datasets/Electronic-1/test/images'
+train: 'C:/Sinau/UAS/ML2/datasets/Electronic-1/train/images'
+val: 'C:/Sinau/UAS/ML2/datasets/Electronic-1/valid/images'
